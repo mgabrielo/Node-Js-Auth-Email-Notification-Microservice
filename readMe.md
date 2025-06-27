@@ -1,0 +1,3 @@
+# Node Js Auth-Email-Notification Microservice
+
+- via Kafka, Redis, Docker ,PostgreSQL, Express, JWT, Node Mailer, Knex , Express-Rate-Limiter, http-proxy-middleware , Typescript etc ...
